@@ -1,2 +1,2 @@
-# FVICM
-Code for a paper on functional varying-index coefficients model
+# FVICM: Functional varying-index coefficients model for dynamic synergistic gene-environment interactions
+This code implements the genetic association studeis via QIF with functional trait using functional varying-index coefficient models.
